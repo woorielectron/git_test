@@ -1,4 +1,5 @@
 function soccer()
 {
-    return 'soccer baseball'
+    const i = 100;
+    return `soccer game total ${i}`;
 }
